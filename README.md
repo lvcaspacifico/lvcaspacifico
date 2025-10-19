@@ -1,10 +1,11 @@
 ## About me ☕
-````diff
-+ 23-year-old Software Engineering student from Brazil +
-On the path to become a Fullstack Developer
-I have 5 years of experience as a graphic designer
-and currently work as an IT Support Analyst @mercos
 
+- 23-year-old Software Engineering student from Brazil 
+-  On the path to become a Fullstack Developer
+- I have 5 years of experience as a graphic designer
+- Currently work as an IT Support Analyst **@mercos**
+
+````diff
 @@I’ll either find a way or make one@@
 ````
 ## Tools 🐳
