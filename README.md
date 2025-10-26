@@ -16,5 +16,6 @@
 
 + 🐝 [IBM | Enterprise Design Thinking Practioner](https://www.credly.com/earner/earned/badge/f575ffc5-8345-4344-8444-89863e2dd159)
 + 🎲 [Google | Foundations: Data, Data Everywhere](https://www.coursera.org/account/accomplishments/verify/P56BB8DCXDFW)
++ 🅾️ [O'Reilly | Figma Fundamentals](https://www.credly.com/badges/6c4cdcde-55e2-412b-af9d-2cbc001967b7/public_url)
 
 
