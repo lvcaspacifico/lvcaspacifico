@@ -1,9 +1,9 @@
 ## About me ☕
 
 - 23-year-old Software Engineering student from Brazil 
--  On the path to become a Fullstack Developer
-- I have 5 years of experience as a graphic designer
-- Currently work as an IT Support Analyst **@mercos**
+- Full Stack Developer
+- I have 5 years+ of XP as a graphic designer
+- Currently work as a Web Developer at **@right-rudder**
 
 ````diff
 @@I’ll either find a way or make one@@
